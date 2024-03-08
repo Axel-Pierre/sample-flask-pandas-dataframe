@@ -89,7 +89,7 @@ Vous devez compléter le projet github existant, en précisant votre demarche po
 
 ## Acceder à jenkins 
 
-1. Accédez à l'application à l'adresse suivante dans votre navigateur : [http://34.155.128.33:32500]
+1. Accédez à l'application à l'adresse suivante dans votre navigateur : [http://34.155.128.33:32500].
 
 2. tapez vos identifiants.
 
