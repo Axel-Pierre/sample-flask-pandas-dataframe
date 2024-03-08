@@ -31,7 +31,7 @@ $ cd flask-pandas-dataframe
 $
 $ # Virtualenv modules installation (Unix based systems)
 $ virtualenv env
-$ source env/bin/activate
+$ source venv/bin/activate
 $
 $ # Virtualenv modules installation (Windows based systems)
 $ # virtualenv env
@@ -254,4 +254,4 @@ Commands:
 <br />
 
 ---
-Flask Pandas Dataframe - Open-source sample provided by **AppSeed [App Generator](https://appseed.us/app-generator)**. 
+Flask Pandas Dataframe - Open-source sample provided by **AppSeed [App Generator](https://appseed.us/app-generator)**
