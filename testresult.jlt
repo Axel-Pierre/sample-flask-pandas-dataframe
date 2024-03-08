@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="96" it="0" lt="63" ct="44" ts="1709891280973" s="true" lb="HTTP Request" rc="200" rm="" tn="Thread Group 1-1" dt="text" by="4031" sby="263" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="69" it="0" lt="63" ct="44" ts="1709891280973" s="true" lb="HTTP Request-0" rc="302" rm="" tn="Thread Group 1-1" dt="" by="158" sby="131" ng="1" na="1">
+    <java.net.URL>http://34.155.128.33:30190/petclinic</java.net.URL>
+  </httpSample>
+  <httpSample t="25" it="0" lt="25" ct="0" ts="1709891281044" s="true" lb="HTTP Request-1" rc="200" rm="" tn="Thread Group 1-1" dt="text" by="3873" sby="132" ng="1" na="1">
+    <java.net.URL>http://34.155.128.33:30190/petclinic/</java.net.URL>
+  </httpSample>
+  <java.net.URL>http://34.155.128.33:30190/petclinic/</java.net.URL>
+</httpSample>
+<httpSample t="25" it="0" lt="6" ct="3" ts="1709891304749" s="true" lb="HTTP Request" rc="200" rm="" tn="Thread Group 1-2" dt="text" by="4031" sby="263" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="6" it="0" lt="6" ct="3" ts="1709891304749" s="true" lb="HTTP Request-0" rc="302" rm="" tn="Thread Group 1-2" dt="" by="158" sby="131" ng="1" na="1">
+    <java.net.URL>http://34.155.128.33:30190/petclinic</java.net.URL>
+  </httpSample>
+  <httpSample t="18" it="0" lt="18" ct="0" ts="1709891304756" s="true" lb="HTTP Request-1" rc="200" rm="" tn="Thread Group 1-2" dt="text" by="3873" sby="132" ng="1" na="1">
+    <java.net.URL>http://34.155.128.33:30190/petclinic/</java.net.URL>
+  </httpSample>
+  <java.net.URL>http://34.155.128.33:30190/petclinic/</java.net.URL>
+</httpSample>
+<httpSample t="19" it="0" lt="5" ct="1" ts="1709891328747" s="true" lb="HTTP Request" rc="200" rm="" tn="Thread Group 1-3" dt="text" by="4031" sby="263" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="5" it="0" lt="5" ct="1" ts="1709891328747" s="true" lb="HTTP Request-0" rc="302" rm="" tn="Thread Group 1-3" dt="" by="158" sby="131" ng="1" na="1">
+    <java.net.URL>http://34.155.128.33:30190/petclinic</java.net.URL>
+  </httpSample>
+  <httpSample t="13" it="0" lt="12" ct="0" ts="1709891328753" s="true" lb="HTTP Request-1" rc="200" rm="" tn="Thread Group 1-3" dt="text" by="3873" sby="132" ng="1" na="1">
+    <java.net.URL>http://34.155.128.33:30190/petclinic/</java.net.URL>
+  </httpSample>
+  <java.net.URL>http://34.155.128.33:30190/petclinic/</java.net.URL>
+</httpSample>
+<httpSample t="17" it="0" lt="5" ct="2" ts="1709891352746" s="true" lb="HTTP Request" rc="200" rm="" tn="Thread Group 1-4" dt="text" by="4031" sby="263" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="5" it="0" lt="5" ct="2" ts="1709891352746" s="true" lb="HTTP Request-0" rc="302" rm="" tn="Thread Group 1-4" dt="" by="158" sby="131" ng="1" na="1">
+    <java.net.URL>http://34.155.128.33:30190/petclinic</java.net.URL>
+  </httpSample>
+  <httpSample t="12" it="0" lt="12" ct="0" ts="1709891352751" s="true" lb="HTTP Request-1" rc="200" rm="" tn="Thread Group 1-4" dt="text" by="3873" sby="132" ng="1" na="1">
+    <java.net.URL>http://34.155.128.33:30190/petclinic/</java.net.URL>
+  </httpSample>
+  <java.net.URL>http://34.155.128.33:30190/petclinic/</java.net.URL>
+</httpSample>
+<httpSample t="39" it="0" lt="8" ct="2" ts="1709891376752" s="true" lb="HTTP Request" rc="200" rm="" tn="Thread Group 1-5" dt="text" by="4031" sby="263" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="8" it="0" lt="8" ct="2" ts="1709891376752" s="true" lb="HTTP Request-0" rc="302" rm="" tn="Thread Group 1-5" dt="" by="158" sby="131" ng="1" na="1">
+    <java.net.URL>http://34.155.128.33:30190/petclinic</java.net.URL>
+  </httpSample>
+  <httpSample t="29" it="0" lt="29" ct="0" ts="1709891376762" s="true" lb="HTTP Request-1" rc="200" rm="" tn="Thread Group 1-5" dt="text" by="3873" sby="132" ng="1" na="1">
+    <java.net.URL>http://34.155.128.33:30190/petclinic/</java.net.URL>
+  </httpSample>
+  <java.net.URL>http://34.155.128.33:30190/petclinic/</java.net.URL>
+</httpSample>
+
+<httpSample t="95" it="0" lt="60" ct="40" ts="1709896419257" s="true" lb="HTTP Request" rc="200" rm="" tn="Thread Group 1-1" dt="text" by="4031" sby="263" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="64" it="0" lt="60" ct="40" ts="1709896419257" s="true" lb="HTTP Request-0" rc="302" rm="" tn="Thread Group 1-1" dt="" by="158" sby="131" ng="1" na="1">
+    <java.net.URL>http://34.155.128.33:30190/petclinic</java.net.URL>
+  </httpSample>
+  <httpSample t="29" it="0" lt="29" ct="0" ts="1709896419323" s="true" lb="HTTP Request-1" rc="200" rm="" tn="Thread Group 1-1" dt="text" by="3873" sby="132" ng="1" na="1">
+    <java.net.URL>http://34.155.128.33:30190/petclinic/</java.net.URL>
+  </httpSample>
+  <java.net.URL>http://34.155.128.33:30190/petclinic/</java.net.URL>
+</httpSample>
+<httpSample t="28" it="0" lt="8" ct="4" ts="1709896443082" s="true" lb="HTTP Request" rc="200" rm="" tn="Thread Group 1-2" dt="text" by="4031" sby="263" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="8" it="0" lt="8" ct="4" ts="1709896443082" s="true" lb="HTTP Request-0" rc="302" rm="" tn="Thread Group 1-2" dt="" by="158" sby="131" ng="1" na="1">
+    <java.net.URL>http://34.155.128.33:30190/petclinic</java.net.URL>
+  </httpSample>
+  <httpSample t="20" it="0" lt="20" ct="0" ts="1709896443090" s="true" lb="HTTP Request-1" rc="200" rm="" tn="Thread Group 1-2" dt="text" by="3873" sby="132" ng="1" na="1">
+    <java.net.URL>http://34.155.128.33:30190/petclinic/</java.net.URL>
+  </httpSample>
+  <java.net.URL>http://34.155.128.33:30190/petclinic/</java.net.URL>
+</httpSample>
+<httpSample t="35" it="0" lt="6" ct="2" ts="1709896467082" s="true" lb="HTTP Request" rc="200" rm="" tn="Thread Group 1-3" dt="text" by="4031" sby="263" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="6" it="0" lt="6" ct="2" ts="1709896467082" s="true" lb="HTTP Request-0" rc="302" rm="" tn="Thread Group 1-3" dt="" by="158" sby="131" ng="1" na="1">
+    <java.net.URL>http://34.155.128.33:30190/petclinic</java.net.URL>
+  </httpSample>
+  <httpSample t="29" it="0" lt="28" ct="0" ts="1709896467088" s="true" lb="HTTP Request-1" rc="200" rm="" tn="Thread Group 1-3" dt="text" by="3873" sby="132" ng="1" na="1">
+    <java.net.URL>http://34.155.128.33:30190/petclinic/</java.net.URL>
+  </httpSample>
+  <java.net.URL>http://34.155.128.33:30190/petclinic/</java.net.URL>
+</httpSample>
+<httpSample t="19" it="0" lt="4" ct="2" ts="1709896491086" s="true" lb="HTTP Request" rc="200" rm="" tn="Thread Group 1-4" dt="text" by="4031" sby="263" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="4" it="0" lt="4" ct="2" ts="1709896491086" s="true" lb="HTTP Request-0" rc="302" rm="" tn="Thread Group 1-4" dt="" by="158" sby="131" ng="1" na="1">
+    <java.net.URL>http://34.155.128.33:30190/petclinic</java.net.URL>
+  </httpSample>
+  <httpSample t="15" it="0" lt="15" ct="0" ts="1709896491090" s="true" lb="HTTP Request-1" rc="200" rm="" tn="Thread Group 1-4" dt="text" by="3873" sby="132" ng="1" na="1">
+    <java.net.URL>http://34.155.128.33:30190/petclinic/</java.net.URL>
+  </httpSample>
+  <java.net.URL>http://34.155.128.33:30190/petclinic/</java.net.URL>
+</httpSample>
+<httpSample t="38" it="0" lt="6" ct="2" ts="1709896515089" s="true" lb="HTTP Request" rc="200" rm="" tn="Thread Group 1-5" dt="text" by="4031" sby="263" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="6" it="0" lt="6" ct="2" ts="1709896515089" s="true" lb="HTTP Request-0" rc="302" rm="" tn="Thread Group 1-5" dt="" by="158" sby="131" ng="1" na="1">
+    <java.net.URL>http://34.155.128.33:30190/petclinic</java.net.URL>
+  </httpSample>
+  <httpSample t="31" it="0" lt="31" ct="0" ts="1709896515096" s="true" lb="HTTP Request-1" rc="200" rm="" tn="Thread Group 1-5" dt="text" by="3873" sby="132" ng="1" na="1">
+    <java.net.URL>http://34.155.128.33:30190/petclinic/</java.net.URL>
+  </httpSample>
+  <java.net.URL>http://34.155.128.33:30190/petclinic/</java.net.URL>
+</httpSample>
+
+</testResults>

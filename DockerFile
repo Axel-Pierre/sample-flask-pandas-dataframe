@@ -1,0 +1,18 @@
+# Utilise l'image officielle Python comme image parente
+FROM python:3.8-slim
+
+# Définit le répertoire de travail dans le conteneur
+WORKDIR /app
+
+
+# Copie les fichiers de dépendances dans le conteneur
+COPY requirements.txt .
+
+# Installe les dépendances
+RUN pip install --no-cache-dir -r requirements.txt
+
+# Copie le reste des fichiers du projet dans le conteneur
+COPY . .
+
+# Définit la commande pour exécuter l'application
+CMD ["flask", "run", "--host=0.0.0.0"]
